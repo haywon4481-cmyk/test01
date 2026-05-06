@@ -1,0 +1,17 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/admin/other-works/page": "/admin/other-works",
+  "/admin/page": "/admin",
+  "/admin/profile/page": "/admin/profile",
+  "/admin/settings/page": "/admin/settings",
+  "/admin/webtoons/page": "/admin/webtoons",
+  "/admin/work-process/page": "/admin/work-process",
+  "/api/health/route": "/api/health",
+  "/api/upload/route": "/api/upload",
+  "/contect/page": "/contect",
+  "/other-works/page": "/other-works",
+  "/page": "/",
+  "/webtoon/page": "/webtoon",
+  "/work-process/page": "/work-process"
+}

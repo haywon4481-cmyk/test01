@@ -1,0 +1,17 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/admin/other-works/page": "app/admin/other-works/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/admin/profile/page": "app/admin/profile/page.js",
+  "/admin/settings/page": "app/admin/settings/page.js",
+  "/admin/webtoons/page": "app/admin/webtoons/page.js",
+  "/admin/work-process/page": "app/admin/work-process/page.js",
+  "/api/health/route": "app/api/health/route.js",
+  "/api/upload/route": "app/api/upload/route.js",
+  "/contect/page": "app/contect/page.js",
+  "/other-works/page": "app/other-works/page.js",
+  "/page": "app/page.js",
+  "/webtoon/page": "app/webtoon/page.js",
+  "/work-process/page": "app/work-process/page.js"
+}

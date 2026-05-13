@@ -1,4 +1,16 @@
 {
+  "name": "my-portfolio-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node backend/dist/server.js",
+    "postinstall": "echo postinstall"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
+{
   "name": "backend",
   "version": "1.0.0",
   "description": "Backend server",

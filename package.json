@@ -2,28 +2,14 @@
   "name": "my-portfolio-root",
   "version": "1.0.0",
   "private": true,
+  "description": "Portfolio - Render deployment ready",
   "scripts": {
     "start": "node backend/dist/server.js",
-    "postinstall": "echo postinstall"
+    "dev": "node backend/server.js"
   },
   "engines": {
     "node": ">=18"
-  }
-}
-{
-  "name": "backend",
-  "version": "1.0.0",
-  "description": "Backend server",
-  "main": "server.js",
-  {
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "postbuild": "node scripts/prepare-deploy.mjs",
-    "start": "next start",
-    "lint": "eslint ."
-  }
-}
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",

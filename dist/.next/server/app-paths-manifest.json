@@ -8,6 +8,7 @@
   "/admin/webtoons/page": "app/admin/webtoons/page.js",
   "/admin/work-process/page": "app/admin/work-process/page.js",
   "/api/health/route": "app/api/health/route.js",
+  "/api/status/route": "app/api/status/route.js",
   "/api/upload/route": "app/api/upload/route.js",
   "/contect/page": "app/contect/page.js",
   "/other-works/page": "app/other-works/page.js",

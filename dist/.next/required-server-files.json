@@ -105,7 +105,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "C:\\Users\\Owner\\OneDrive\\Desktop\\hyewon\\frontend",
+    "outputFileTracingRoot": "c:\\Users\\Owner\\OneDrive\\Desktop\\hyewon\\frontend",
     "cacheComponents": false,
     "cacheLife": {
       "default": {
@@ -305,11 +305,11 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.mjs",
     "turbopack": {
-      "root": "C:\\Users\\Owner\\OneDrive\\Desktop\\hyewon\\frontend"
+      "root": "c:\\Users\\Owner\\OneDrive\\Desktop\\hyewon\\frontend"
     },
     "distDirRoot": ".next"
   },
-  "appDir": "C:\\Users\\Owner\\OneDrive\\Desktop\\hyewon\\frontend",
+  "appDir": "c:\\Users\\Owner\\OneDrive\\Desktop\\hyewon\\frontend",
   "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",

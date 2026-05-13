@@ -8,6 +8,7 @@
   "/admin/webtoons/page": "/admin/webtoons",
   "/admin/work-process/page": "/admin/work-process",
   "/api/health/route": "/api/health",
+  "/api/status/route": "/api/status",
   "/api/upload/route": "/api/upload",
   "/contect/page": "/contect",
   "/other-works/page": "/other-works",

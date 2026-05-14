@@ -4,8 +4,8 @@
   "private": true,
   "description": "Portfolio - Render deployment ready",
   "scripts": {
-    "start": "node backend/dist/server.js",
-    "dev": "node backend/server.js"
+    "start": "node dist/server.js",
+    "dev": "node server.js"
   },
   "engines": {
     "node": ">=20.9.0"

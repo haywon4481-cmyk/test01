@@ -8,7 +8,7 @@ const standaloneServerPath = path.join(__dirname, 'dist', 'server.js');
 const useStandaloneServer = fs.existsSync(standaloneServerPath);
 
 const PORT = process.env.PORT || 5000;
-const HOST = process.env.HOST || process.env.HOSTNAME || '0.0.0.0';
+const HOST = process.env.HOST || '0.0.0.0';
 
 process.env.PORT = String(PORT);
 process.env.HOSTNAME = HOST;

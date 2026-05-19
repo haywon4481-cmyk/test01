@@ -2,6 +2,6 @@
   "name": "hyewon-backend",
   "private": true,
   "scripts": {
-    "start": "node dist/server.js"
+    "start": "node server.js"
   }
 }
